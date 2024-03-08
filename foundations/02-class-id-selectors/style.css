@@ -1,0 +1,20 @@
+p {
+    background-color: #FF7F7F;
+    font-family: "Verdana, DejaVu Sans", sans-serif;
+}
+
+p:nth-child(2) {
+    font-size: 24px;
+}
+
+div {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+div:nth-child(4) {
+    background-color:#90EE90;
+    color: #000000;
+    font-size: 24px;
+    font-weight: 700;
+}
